@@ -24,8 +24,7 @@ public class JavaApplication27 {
         Random mn = new Random();
         int i;
         for (i = 0; i < elements; i++) {
-        arrayvector[i] = elements;
-
+       
         arrayvector[i] = mn.nextInt(6) + 5;
 
         }
